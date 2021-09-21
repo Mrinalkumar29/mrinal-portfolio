@@ -1,0 +1,77 @@
+/** navigation**/
+.navigation{
+    background-color: blue;
+    color: white;
+    padding: 2px;
+    border-bottom-left-radius: 1rem;
+}
+.list-no-bulet{
+    list-style: none;
+    text-align: right;
+}
+.list-inline{
+    display: inline;
+
+}
+.link{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0px 15px;
+}
+.nav-heading{
+    font-weight: bold;
+    padding: 4px 6px;
+    
+}
+.coder{
+    padding: 2rem;
+}
+.coder-image{
+    max-width: 400px;
+    display: block;
+    margin: auto;
+
+}
+.coder-heading{
+    color: grey;
+    padding-top: 2rem;
+    text-align: center;
+}
+.coder-specialization{
+    color: blue;
+}
+.ow{
+    background-color:whitesmoke;
+}
+.abc{
+    text-align: center;
+    padding: 1rem;
+}
+.wh{
+     background-color: white;
+}
+.xyz{
+    text-align: center;
+    padding: 1rem;
+}
+.click{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 0.5rem;
+}
+.bg{
+    text-align: center;
+    padding: 4rem;
+}
+.bd{
+    color: blue;
+}
+.press{
+    text-decoration: none;
+    background-color:cyan;
+    color: grey;
+    padding: 00.5rem;
+
+}
